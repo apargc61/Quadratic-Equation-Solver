@@ -46,7 +46,7 @@ equationsolver.solution(fiit)
 
 
 '''has to add more here'''
-
+''' can add more complex equations here'''
 
 
 
